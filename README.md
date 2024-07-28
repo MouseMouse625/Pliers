@@ -1,0 +1,1 @@
+This is a model of pliers in CAD. There are .STEP and .STL documents for general use and .GLB/.GLTF documents specifically for textures.
